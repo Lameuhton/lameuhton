@@ -1,5 +1,3 @@
-# 👋 Bonjour, moi c'est Auréliane Gagliardi !
-
 ![Banner](https://github.com/Lameuhton/lameuhton/blob/main/banniere-readme.png?raw=true)
 
 **Junior Frontend Developer | Passionnée de Web Design | Étudiante chez [Becode.org](https://becode.org/)**
