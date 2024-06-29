@@ -2,6 +2,11 @@
 
 Curious, creative, and above all, passionate about the Web | Currently training at [Becode.org](https://becode.org/)**
 
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lameuhton&show_icons=true&theme=cobalt" alt="Auréliane's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lameuhton&layout=compact&theme=cobalt" alt="Top Langs">
+</span>
+
 ---
 
 🌸 *Transform the ordinary into the extraordinary* 🌸
@@ -27,27 +32,27 @@ For more about me and my projects, visit my [website](http://aurelianeg.tech).
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 #### Tools:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
 ### 🌈 Projects
 
-- **[Project Name 1](link-to-project)**: A creative web application using React and SASS to offer a dynamic and interactive user experience.
-- **[Project Name 2](link-to-project)**: An e-commerce site developed with Next.js and Tailwind, showcasing modern and responsive designs.
-- **[Portfolio](https://www.aurelianeg.tech/)**: Discover more of my works and personal projects.
+- **[eCommerce Website](https://github.com/YasmineSan/The_Project)**: **Coming soon...**| Craftify is an e-commerce platform designed for artisans, enabling them to create and sell their products online. This project, made in team (4), utilizes React for dynamic user interfaces, Tailwind CSS for responsive design, Node.js with Express for the backend, and a MySQL database for data storage.
+- **[Todo-list App](https://github.com/Junior-dev-Track/16-react-todolist-Lameuhton)**: A single-page application designed for task management, allowing users to write, delete, and mark items as completed. Developed as an exercise during training to learn React, this app provides practical experience in building interactive user interfaces for organizing tasks effectively.
+- **[Catalog game site](https://github.com/Junior-dev-Track/16-react-everyonegames-christophe-aureliane)**: Developed as a collaborative project during training, the Best Gamez Game Site serves as a comprehensive platform listing various games, sourced from the RAWG API. Users can explore game titles along with their respective posters, and utilize features such as search bars and category filters for sorting. This project was instrumental in gaining practical experience in utilizing APIs effectively within a team environment.
+- **[My portfolio](https://github.com/Lameuhton/portfolio)**: My personnal portfolio, made with React, Tailwind and Next.js. Discover more of my works and personal projects.
 
 ---
 
 ### 📘 Currently Learning
 
-I am currently deepening my knowledge of React and plan to learn Vue.js, TypeScript, and probably Next.js. I am always open to exploring new languages and frameworks.
+I am currently deepening my knowledge of React and plan to learn Vue.js, TypeScript and Next.js. I am always open to exploring new languages and frameworks.
 
 ---
 
