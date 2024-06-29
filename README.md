@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c'est Auréliane Gagliardi !
 
-![Banner](https://github.com/votre-profil-github/path-to-your-image/banniere%20Readme.png)
+![Banner]([https://github.com/votre-profil-github/path-to-your-image/banniere%20Readme.png](https://github.com/Lameuhton/lameuhton/blob/main/banniere-readme.png?raw=true))
 
 **Junior Frontend Developer | Passionnée de Web Design | Étudiante chez [Becode.org](https://becode.org/)**
 
