@@ -60,11 +60,11 @@ I am currently deepening my knowledge of React and plan to learn Vue.js, TypeScr
 
 Some other things to know about me:
 
-- 🐱 I have a funny cat named Kiwi 
-- 📖 I love singing (sometimes really good, sometimes really bad)
-- 🎨 I do creative stuffs when I'm bored
-- 🍻 I also love to spend time with my friends
-- 🥝 Kiwi can open doors (not funny when it's 5am)
+🐱 I have a funny cat named Kiwi 
+📖 I love singing (sometimes really good, sometimes really bad)
+🎨 I do creative stuffs when I'm bored
+🍻 I also love to spend time with my friends
+🥝 Kiwi can open doors (not funny when it's 5am)
 
 ![Fun GIF or image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh1cXQ3cW9namdkdzQ2dTk2ajJpbDJqcWZtaTcyM2xjbDh6bWhwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
 
