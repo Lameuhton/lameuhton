@@ -1,17 +1,15 @@
 ![Banner](https://github.com/Lameuhton/lameuhton/blob/main/banniere-readme.png?raw=true)
 
-Curious, creative, and above all, passionate about the Web | Currently training at [Becode.org](https://becode.org/)**
-
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lameuhton&show_icons=true&theme=cobalt" alt="Auréliane's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lameuhton&layout=compact&theme=cobalt" alt="Top Langs">
-</span>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lameuhton&show_icons=true&theme=cobalt" alt="Auréliane's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lameuhton&layout=compact&theme=cobalt" alt="Top Langs">
+</p>
 
 ---
 
 🌸 *Transform the ordinary into the extraordinary* 🌸
 
-Driven by curiosity, I have always been captivated by computers and the creation of beautiful, intuitive websites. Currently, I am training at [Becode.org](https://becode.org/), where I am honing my web development skills. This training not only helps me improve my technical abilities but also enhances my self-learning and teamwork skills. My creativity and dedication are often highlighted by those who know me, and I love seeing that "wow" look on users' faces when they discover my work.
+Driven by curiosity, I have always been captivated by computers and the creation of beautiful, intuitive websites. Currently, I am training at **[Becode.org](https://becode.org/)**, where I am honing my web development skills. This training not only helps me improve my technical abilities but also enhances my self-learning and teamwork skills. My creativity and dedication are often highlighted by those who know me, and I love seeing that "wow" look on users' faces when they discover my work.
 
 For more about me and my projects, visit my [website](http://aurelianeg.tech).
 
