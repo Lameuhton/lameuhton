@@ -63,15 +63,17 @@ I am currently deepening my knowledge of React and plan to learn Vue.js, TypeScr
 
 Some other things to know about me:
 
-- 🐱 I have a funny cat named Kiwi
-- 📖 I love singing (sometimes really good, sometimes really bad)
-- 🎨 I do creative stuff when I'm bored
-- 🍻 I also love to spend time with my friends
-- 🎮 I also love to play videos games (PC and Switch)
-- 🥝 Kiwi can open doors (not funny when it's 5am)
-
-
-![Fun GIF or image](https://media2.giphy.com/media/4Y3zQkV3EPtAc/giphy.gif?cid=6c09b952xx2ovjjx3rx21kaprx97bccde5k96bcin3uayuk9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<div>
+    <ul>
+        <li>🐱 I have a funny cat named Kiwi</li>
+        <li>🎤 I love singing (sometimes really good, sometimes really bad)</li>
+        <li>🎨 I do creative stuff when I'm bored</li>
+        <li>🍻 I also love to spend time with my friends</li>
+        <li>🎮 I also love to play videos games (PC and Switch)</li>
+        <li>🥝 Kiwi can open doors (not funny when it's 5am)</li>
+    </ul>
+    <img src="https://media2.giphy.com/media/4Y3zQkV3EPtAc/giphy.gif?cid=6c09b952xx2ovjjx3rx21kaprx97bccde5k96bcin3uayuk9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
 
 ---
 
