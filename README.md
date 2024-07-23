@@ -57,7 +57,7 @@ For more about me and my projects, visit my [website](http://aurelianeg.tech).
 
 ### 📘 Currently Learning
 
-I am currently deepening my knowledge of **React** and plan to learn **Vue.js**, **TypeScript** and **Next.js**. I am always open to exploring new languages and frameworks.
+I am currently deepening my knowledge of **React** and plan to learn **Vue.js**, **TypeScript** and **Next.js** for my personnal knowledge. I'll also see Wordpress soon. I am always open to exploring new languages and frameworks.
 
 ---
 
