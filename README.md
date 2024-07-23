@@ -52,7 +52,6 @@ For more about me and my projects, visit my [website](http://aurelianeg.tech).
 - **[Catalog game site](https://github.com/Junior-dev-Track/16-react-everyonegames-christophe-aureliane)**: Developed as a collaborative project during training, the Best Gamez Game Site serves as a comprehensive platform listing various games, sourced from the RAWG API. Users can explore game titles along with their respective posters, and utilize features such as search bars and category filters for sorting. This project was instrumental in gaining practical experience in utilizing APIs effectively within a team environment.
 - **[My portfolio](https://github.com/Lameuhton/portfolio)**: My personnal portfolio, made with React, Tailwind and Next.js. Discover more of my works and personal projects.
 - **[Atome's portfolio](https://github.com/Lameuhton/atome_portfolio)**: Personnal portfolio of Colin Grégoire, made with React, Tailwind and Next.js.
-- 
 ---
 
 ### 📘 Currently Learning
