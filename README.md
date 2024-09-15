@@ -9,7 +9,7 @@
 
 🌸 *Transform the ordinary into the extraordinary* 🌸
 
-Driven by curiosity, I have always been captivated by computers and the creation of beautiful, intuitive websites. Currently, I am training at **[Becode.org](https://becode.org/)**, where I am honing my web development skills. This training not only helps me improve my technical abilities but also enhances my self-learning and teamwork skills. My creativity and dedication are often highlighted by those who know me, and I love seeing that "wow" look on users' faces when they discover my work.
+Driven by curiosity, I have always been captivated by computers and the creation of beautiful, intuitive websites. Recently, I finished my training at **[Becode.org](https://becode.org/)**, where I honed my web development skills. This training not only helped me improve my technical abilities but also enhanced my self-learning and teamwork skills. My creativity and dedication are often highlighted by those who know me, and I love seeing that "wow" look on users' faces when they discover my work. I am now thrilled to be doing an internship at **[Webecode](https://becode.org/)**, where I aim to further develop my skills in a professional environment.
 
 For more about me and my projects, visit my [website](http://aurelianeg.tech).
 
@@ -22,6 +22,7 @@ For more about me and my projects, visit my [website](http://aurelianeg.tech).
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Wordpress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -57,7 +58,7 @@ For more about me and my projects, visit my [website](http://aurelianeg.tech).
 
 ### 📘 Currently Learning
 
-I am currently deepening my knowledge of **React** and plan to learn **Vue.js**, **TypeScript** and **Next.js** for my personnal knowledge. I'll also see Wordpress soon. I am always open to exploring new languages and frameworks.
+I am currently learning **Wordpress** (with the plugin ACF) as part of my internship and plan to learn **Vue.js**, **TypeScript** and **Next.js** for my personnal knowledge. I am always open to exploring new languages and frameworks.
 
 ---
 
