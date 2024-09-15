@@ -9,7 +9,7 @@
 
 🌸 *Transform the ordinary into the extraordinary* 🌸
 
-Driven by curiosity, I have always been captivated by computers and the creation of beautiful, intuitive websites. Recently, I finished my training at **[Becode.org](https://becode.org/)**, where I honed my web development skills. This training not only helped me improve my technical abilities but also enhanced my self-learning and teamwork skills. My creativity and dedication are often highlighted by those who know me, and I love seeing that "wow" look on users' faces when they discover my work. I am now thrilled to be doing an internship at **[Webecode](https://becode.org/)**, where I aim to further develop my skills in a professional environment.
+Driven by curiosity, I have always been captivated by computers and the creation of beautiful, intuitive websites. Recently, I finished my training at **[Becode.org](https://becode.org/)**, where I honed my web development skills. This training not only helped me improve my technical abilities but also enhanced my self-learning and teamwork skills. My creativity and dedication are often highlighted by those who know me, and I love seeing that "wow" look on users' faces when they discover my work. I am now thrilled to be doing an internship at **[Webecode](https://webecode.be/)**, where I aim to further develop my skills in a professional environment.
 
 For more about me and my projects, visit my [website](http://aurelianeg.tech).
 
