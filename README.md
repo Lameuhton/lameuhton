@@ -48,11 +48,14 @@ For more about me and my projects, visit my [website](http://aurelianeg.tech).
 
 ### 🌈 Projects
 
-- **[eCommerce Website](https://github.com/YasmineSan/The_Project)**: Craftify is an e-commerce platform designed for artisans, enabling them to create and sell their products online. This project, made in team (4), utilizes React for dynamic user interfaces, Tailwind CSS for responsive design, Node.js with Express for the backend, and a MySQL database for data storage.
 - **[My portfolio](https://github.com/Lameuhton/portfolio)**: My personnal portfolio, made with React, Tailwind and Next.js. Discover more of my works and personal projects.
-- **[Atome's portfolio](https://github.com/Lameuhton/atome_portfolio)**: Personnal portfolio of Colin Grégoire, made with React, Tailwind and Next.js.
-- **[Todo-list App](https://github.com/Junior-dev-Track/16-react-todolist-Lameuhton)**: A single-page application designed for task management, allowing users to write, delete, and mark items as completed. Developed as an exercise during training to learn React, this app provides practical experience in building interactive user interfaces for organizing tasks effectively.
-- **[Catalog game site](https://github.com/Junior-dev-Track/16-react-everyonegames-christophe-aureliane)**: Developed as a collaborative project during training, the Best Gamez Game Site serves as a comprehensive platform listing various games, sourced from the RAWG API. Users can explore game titles along with their respective posters, and utilize features such as search bars and category filters for sorting. This project was instrumental in gaining practical experience in utilizing APIs effectively within a team environment.
+- **[Dr. François Bernaerts' Website](https://www.docteur.webecode.be/)**: Created during my internship at Webecode, this showcase site presents the services of Dr. François Bernaerts, a general practitioner and homeopath. The intuitive interface allows patients to access information and schedule appointments online, enhancing accessibility and user experience. (Wordpress, Tailwind)
+- **[Colin G.'s Portfolio](https://github.com/Lameuhton/atome_portfolio)**: A modern and responsive portfolio designed to showcase professional skills with an elegant design and subtle animations. (Next.js, Tailwind)
+- **[Deliziosa Sandwich Shop Website](https://github.com/Lameuhton/sandwicherie-deliziosa)**: A showcase site developed for a sandwich shop, highlighting services and products with a modern design and smooth navigation. (Next.js, Tailwind)
+- **[eCommerce Website](https://ecommerce-craftify.netlify.app/)**: A collaborative project for creating a platform where artisans can showcase and sell their handmade creations. It offers full-featured product, cart, and user profile management, ensuring an optimal customer experience. (React, Tailwind, Express)
+- **[Real Estate Landing Page](https://panto-project.vercel.app/)**: A minimalist and modern landing page project designed for real estate purposes, created to refine my skills. (Next.js, Tailwind)
+- **[Game Catalog](https://bestgamez.netlify.app/)**: A web platform listing popular video games with search and filter options by genre and platform, utilizing the RAWG API. (React, SCSS)
+- **[Todolist App](https://aurelianegtodolist.netlify.app/)**: An interactive task management app allowing users to view, add, edit, and delete tasks while maintaining data persistence. (React)
 
 ---
 
