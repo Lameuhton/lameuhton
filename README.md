@@ -7,11 +7,11 @@
 
 ---
 
-🌸 *Transform the ordinary into the extraordinary* 🌸
+🌸 Transform the ordinary into the extraordinary 🌸
 
-Driven by curiosity, I have always been captivated by computers and the creation of beautiful, intuitive websites. Recently, I finished my training at **[Becode.org](https://becode.org/)**, where I honed my web development skills. This training not only helped me improve my technical abilities but also enhanced my self-learning and teamwork skills. My creativity and dedication are often highlighted by those who know me, and I love seeing that "wow" look on users' faces when they discover my work. I am now thrilled to be doing an internship at **[Webecode](https://webecode.be/)**, where I aim to further develop my skills in a professional environment.
+Fueled by curiosity, I have always been fascinated by computers and the creation of beautiful, intuitive websites. After completing my training at Becode.org, where I refined my web development skills and strengthened my self-learning and teamwork abilities, I began an internship at Webecode. This valuable experience has allowed me to further develop my technical expertise in a professional environment. As my internship comes to an end, I am now actively seeking a full-time position where I can continue to bring my creativity and dedication to new challenges. I thrive on creating work that brings that "wow" factor to users' faces, and I'm excited to contribute to innovative projects that inspire.
 
-For more about me and my projects, visit my [website](http://aurelianeg.tech).
+For more about me and my projects, visit my [website](https://www.aurelianeg.tech/).
 
 ---
 
