@@ -1,4 +1,4 @@
-[![Banner](https://github.com/Lameuhton/lameuhton/blob/main/banniere-readme.png?raw=true)](http://aurelianeg.tech)
+[![Banner](https://github.com/Lameuhton/lameuhton/blob/main/banniere-readme.png?raw=true)](https://aurelianeg.be)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Lameuhton&show_icons=true&theme=cobalt" alt="Auréliane's GitHub Stats">
@@ -11,7 +11,7 @@
 
 Fueled by curiosity, I have always been fascinated by computers and the creation of beautiful, intuitive websites. After completing my training at Becode.org, where I refined my web development skills and strengthened my self-learning and teamwork abilities, I began an internship at Webecode. This valuable experience has allowed me to further develop my technical expertise in a professional environment. As my internship comes to an end, I am now actively seeking a full-time position where I can continue to bring my creativity and dedication to new challenges. I thrive on creating work that brings that "wow" factor to users' faces, and I'm excited to contribute to innovative projects that inspire.
 
-For more about me and my projects, visit my [website](https://www.aurelianeg.tech/).
+For more about me and my projects, visit my [website](https://www.aurelianeg.be/).
 
 ---
 
