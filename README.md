@@ -48,8 +48,9 @@ For more about me and my projects, visit my [website](https://www.aurelianeg.be/
 
 ### 🌈 Projects
 
-- **[My portfolio](https://github.com/Lameuhton/portfolio)**: My personnal portfolio, made with React, Tailwind and Next.js. Discover more of my works and personal projects.
+- **[My portfolio](https://aurelianeg.be)**: My personnal portfolio, made with Next.js, Typescript and Tailwind. Discover more of my works and personal projects.
 - **[Dr. François Bernaerts' Website](https://www.docteur.webecode.be/)**: Created during my internship at Webecode, this showcase site presents the services of Dr. François Bernaerts, a general practitioner and homeopath. The intuitive interface allows patients to access information and schedule appointments online, enhancing accessibility and user experience. (Wordpress, Tailwind)
+- **[BubblePop Game](https://bubble-pop-game-three.vercel.app/)**: A fast-paced arcade mini-game where you have 60 seconds to pop as many bubbles as possible and score combos. A playful personal project to explore interactions and animations. (React, CSS)
 - **[Colin G.'s Portfolio](https://github.com/Lameuhton/atome_portfolio)**: A modern and responsive portfolio designed to showcase professional skills with an elegant design and subtle animations. (Next.js, Tailwind)
 - **[Deliziosa Sandwich Shop Website](https://github.com/Lameuhton/sandwicherie-deliziosa)**: A showcase site developed for a sandwich shop, highlighting services and products with a modern design and smooth navigation. (Next.js, Tailwind)
 - **[eCommerce Website](https://ecommerce-craftify.netlify.app/)**: A collaborative project for creating a platform where artisans can showcase and sell their handmade creations. It offers full-featured product, cart, and user profile management, ensuring an optimal customer experience. (React, Tailwind, Express)
@@ -61,7 +62,7 @@ For more about me and my projects, visit my [website](https://www.aurelianeg.be/
 
 ### 📘 Currently Learning
 
-I am currently learning **Wordpress** (with the plugin ACF) as part of my internship and plan to learn **Vue.js**, **TypeScript** and **Next.js** for my personnal knowledge. I am always open to exploring new languages and frameworks.
+I am currently learning **TypeScript** and plan to learn **Vue.js** for my personnal knowledge. I am always open to exploring new languages and frameworks.
 
 ---
 
